@@ -40,3 +40,9 @@ Run inside another terminal:
 yarn styled-components
 ```
 
+## O que aprendemos
+
+- Criar um projeto base com o TSDX, React e Storybook;
+- Escrever uma story para apresentar o componente criado no Storybook;
+- Construir a biblioteca localmente, para testar o código desenvolvido;
+- Importar o componente criado no ambiente de teste local.
