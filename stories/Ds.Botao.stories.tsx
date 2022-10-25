@@ -1,6 +1,6 @@
 import { ComponentMeta, ComponentStory } from '@storybook/react';
 import React from 'react';
-import { DsBotao } from '../src';
+import { DsBotao } from '../src/components/DsBotao';
 
 export default {
   title: 'Componentes/DsBotao',
