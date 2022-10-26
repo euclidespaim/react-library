@@ -1,7 +1,13 @@
 import React from 'react';
 import styled from 'styled-components';
 
-const BotaoEstilizado = styled.button`
+export interface DsBotaoProps {
+  texto?: string;
+  tipo?: 'primario' | 'secundario';
+  onClick?: () => void;
+}
+
+const BotaoEstilizado = styled.button<DsBotaoProps>`
   background-color: #eb9b00;
   padding: 16px 32px;
   border: 2px solid #eb9b00;
@@ -15,10 +21,10 @@ const BotaoEstilizado = styled.button`
 
 `
 
-export const DsBotao = () => {
+export const DsBotao = ({texto, onClick, tipo= 'primario'} : DsBotaoProps) => {
   return (
-    <BotaoEstilizado>
-      Clique aqui!
+    <BotaoEstilizado onClick={onClick} tipo={tipo}>
+      {texto}
     </BotaoEstilizado>
   )
 }
