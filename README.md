@@ -46,3 +46,15 @@ yarn styled-components
 - Escrever uma story para apresentar o componente criado no Storybook;
 - Construir a biblioteca localmente, para testar o código desenvolvido;
 - Importar o componente criado no ambiente de teste local.
+
+## Referências
+
+- [TSDX](https://tsdx.io/)
+- [Storybook](https://storybook.js.org/)
+- [Styled Components](https://styled-components.com/)
+- [React TypeScript Cheatsheet](https://react-typescript-cheatsheet.netlify.app/)
+- [React](https://pt-br.reactjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Parcel](https://parceljs.org/)
+- [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/)
+- [Jest](https://jestjs.io/)
