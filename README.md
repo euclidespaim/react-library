@@ -51,7 +51,6 @@ yarn styled-components
 - Utilizar o React Testing Library para testar os componentes. 
 - Utilizar o Storybook para documentar os componentes.
 - Utilizar o React Styleguidist para documentar os componentes.
-- Utilizar o React Docgen para documentar os componentes.
 
 
 
