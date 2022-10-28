@@ -48,7 +48,7 @@ yarn styled-components
 - Importar o componente criado no ambiente de teste local.
 - Publicar a biblioteca no NPM.
 - Utilizar o Styled Components para estilizar os componentes.
-- 
+- Utilizar o React Testing Library para testar os componentes. 
 
 ## Referências
 
