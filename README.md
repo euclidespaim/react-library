@@ -47,6 +47,7 @@ yarn styled-components
 - Construir a biblioteca localmente, para testar o código desenvolvido;
 - Importar o componente criado no ambiente de teste local.
 - Publicar a biblioteca no NPM.
+- Utilizar o Styled Components para estilizar os componentes.
 - 
 
 ## Referências
