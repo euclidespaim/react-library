@@ -46,6 +46,8 @@ yarn styled-components
 - Escrever uma story para apresentar o componente criado no Storybook;
 - Construir a biblioteca localmente, para testar o código desenvolvido;
 - Importar o componente criado no ambiente de teste local.
+- Publicar a biblioteca no NPM.
+- 
 
 ## Referências
 
@@ -58,3 +60,4 @@ yarn styled-components
 - [Parcel](https://parceljs.org/)
 - [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/)
 - [Jest](https://jestjs.io/)
+
