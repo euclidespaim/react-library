@@ -65,3 +65,6 @@ yarn styled-components
 - [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/)
 - [Jest](https://jestjs.io/)
 
+## Contato 
+
+- [LinkedIn](https://github.com/euclidespaim)
