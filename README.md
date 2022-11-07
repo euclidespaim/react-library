@@ -1,24 +1,20 @@
 # TSDX React w/ Storybook User Guide
 
-Congrats! You just saved yourself hours of work by bootstrapping this project with TSDX. Let’s get you oriented with what’s here and how to use it.
+[![Generic badge](https://img.shields.io/badge/npm_package-0.2.2-<COLOR>.svg)](https://www.npmjs.com/package/kidbutton)
+[![Build Status](https://travis-ci.org/ReactTraining/react-router.svg?branch=master)](https://travis-ci.org/ReactTraining/react-router)
 
-> This TSDX setup is meant for developing React component libraries (not apps!) that can be published to NPM. If you’re looking to build a React-based app, you should use `create-react-app`, `razzle`, `nextjs`, `gatsby`, or `react-static`.
 
-> If you’re new to TypeScript and React, checkout [this handy cheatsheet](https://github.com/sw-yx/react-typescript-cheatsheet/)
+[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
+[![TypeScript](https://badgen.net/badge/icon/typescript?icon=typescript&label)](https://typescriptlang.org)
 
-## Commands
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
+[![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://saythanks.io/to/kennethreitz)
 
-TSDX scaffolds your new library inside `/src`, and also sets up a [Parcel-based](https://parceljs.org) playground for it inside `/example`.
 
-The recommended workflow is to run TSDX in one terminal:
+[![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Naereen/badges)
 
-```bash
-npm start # or yarn start
-```
 
-This builds to `/dist` and runs the project in watch mode so any edits you save inside `src` causes a rebuild to `/dist`.
 
-Then run either Storybook or the example playground:
 
 ### Storybook
 
@@ -50,7 +46,6 @@ yarn styled-components
 - Utilizar o Styled Components para estilizar os componentes.
 - Utilizar o React Testing Library para testar os componentes. 
 - Utilizar o Storybook para documentar os componentes.
-
 
 
 ## Referências
