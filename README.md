@@ -1,16 +1,11 @@
-# TSDX React w/ Storybook User Guide
+# TSDX React with Storybook User Guide
 
 [![Generic badge](https://img.shields.io/badge/npm_package-0.2.2-<COLOR>.svg)](https://www.npmjs.com/package/kidbutton)
 [![Build Status](https://travis-ci.org/ReactTraining/react-router.svg?branch=master)](https://travis-ci.org/ReactTraining/react-router)
-
-
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
 [![TypeScript](https://badgen.net/badge/icon/typescript?icon=typescript&label)](https://typescriptlang.org)
-
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
 [![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://saythanks.io/to/kennethreitz)
-
-
 [![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Naereen/badges)
 
 
