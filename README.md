@@ -33,14 +33,14 @@ yarn styled-components
 
 ## O que aprendemos
 
-- Criar um projeto base com o TSDX, React e Storybook;
+- Criar um projeto base com o *npx tsdx*, React e Storybook;
 - Escrever uma story para apresentar o componente criado no Storybook;
 - Construir a biblioteca localmente, para testar o código desenvolvido;
 - Importar o componente criado no ambiente de teste local.
 - Publicar a biblioteca no NPM.
 - Utilizar o Styled Components para estilizar os componentes.
-- Utilizar o React Testing Library para testar os componentes. 
 - Utilizar o Storybook para documentar os componentes.
+- Desenvolver uma integração continua entre o GitHub e o NPM.
 
 
 ## Referências
