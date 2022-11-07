@@ -60,6 +60,7 @@
     "@types/react": "^18.0.22",
     "@types/react-dom": "^18.0.7",
     "@types/styled-components": "^5.1.26",
+    "auto": "^10.37.6",
     "babel-loader": "^8.2.5",
     "husky": "^8.0.1",
     "react": "^18.2.0",
